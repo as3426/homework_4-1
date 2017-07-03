@@ -1,6 +1,6 @@
 <?php
     $dsn = 'mysql:host=localhost;dbname=my_guitar_shop1';
-    $username = 'mgs_user';
+    $username = 'user';
     $password = 'pa55word';
 
     try {
