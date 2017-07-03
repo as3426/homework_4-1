@@ -48,7 +48,7 @@ $statement->closeCursor();
     
     <!-- add code for the form here -->
     
-	<form  ction="add_category.php" method="post" id="add_category_form">
+	<form  action="add_category.php" method="post" id="add_category_form">
 	  <label>Name:</label>
 	  <input type="text" name="name"/>
 	  <input id="add_category_button" type="Submit" value="Add"/>
